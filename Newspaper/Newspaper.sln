@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newspaper.API", "Newspaper\Newspaper.API.csproj", "{6C54155B-5AE6-4707-8B00-D70B7855E4A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newspaper.Data", "Newspaper.Data\Newspaper.Data.csproj", "{37F51819-6DC8-4034-9992-CB502AE35B6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newspaper.Repositories", "Newspaper.Repositories\Newspaper.Repositories.csproj", "{B7D97440-1907-4C80-96A3-A41D8FEE95E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newspaper.Services", "Newspaper.Services\Newspaper.Services.csproj", "{DB75087D-67B4-49E4-BFD3-AE6F82B810EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newspaper.Core", "Newspaper.Core\Newspaper.Core.csproj", "{AFF665AB-1700-4290-89AE-2BAC93A7D41E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newspaper.DTO", "Newspaper.DTO\Newspaper.DTO.csproj", "{4B8F9448-38FE-4485-B4A3-78CF4674734C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C54155B-5AE6-4707-8B00-D70B7855E4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C54155B-5AE6-4707-8B00-D70B7855E4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C54155B-5AE6-4707-8B00-D70B7855E4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C54155B-5AE6-4707-8B00-D70B7855E4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F51819-6DC8-4034-9992-CB502AE35B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F51819-6DC8-4034-9992-CB502AE35B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F51819-6DC8-4034-9992-CB502AE35B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F51819-6DC8-4034-9992-CB502AE35B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D97440-1907-4C80-96A3-A41D8FEE95E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D97440-1907-4C80-96A3-A41D8FEE95E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D97440-1907-4C80-96A3-A41D8FEE95E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D97440-1907-4C80-96A3-A41D8FEE95E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB75087D-67B4-49E4-BFD3-AE6F82B810EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB75087D-67B4-49E4-BFD3-AE6F82B810EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB75087D-67B4-49E4-BFD3-AE6F82B810EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB75087D-67B4-49E4-BFD3-AE6F82B810EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF665AB-1700-4290-89AE-2BAC93A7D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF665AB-1700-4290-89AE-2BAC93A7D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF665AB-1700-4290-89AE-2BAC93A7D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF665AB-1700-4290-89AE-2BAC93A7D41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8F9448-38FE-4485-B4A3-78CF4674734C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8F9448-38FE-4485-B4A3-78CF4674734C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8F9448-38FE-4485-B4A3-78CF4674734C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8F9448-38FE-4485-B4A3-78CF4674734C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {602142D9-4FFA-40C1-9D2A-04D080DB4DDD}
+	EndGlobalSection
+EndGlobal

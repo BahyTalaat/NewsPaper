@@ -1,0 +1,17 @@
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\bin\Debug\net5.0\Newspaper.Repositories.deps.json
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\bin\Debug\net5.0\Newspaper.Repositories.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\bin\Debug\net5.0\Newspaper.Repositories.pdb
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.csproj.AssemblyReference.cache
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.AssemblyInfoInputs.cache
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.AssemblyInfo.cs
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.csproj.CoreCompileInputs.cache
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.pdb
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\ref\Newspaper.Repositories.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\bin\Debug\net5.0\Newspaper.Core.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\bin\Debug\net5.0\Newspaper.Data.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\bin\Debug\net5.0\Newspaper.Data.pdb
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\bin\Debug\net5.0\Newspaper.Core.pdb
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\Newspaper.Repositories.csproj.CopyComplete
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.Repositories\obj\Debug\net5.0\refint\Newspaper.Repositories.dll

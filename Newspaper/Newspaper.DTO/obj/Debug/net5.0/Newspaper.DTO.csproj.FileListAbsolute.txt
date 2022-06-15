@@ -1,0 +1,12 @@
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\bin\Debug\net5.0\Newspaper.DTO.deps.json
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\bin\Debug\net5.0\Newspaper.DTO.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\bin\Debug\net5.0\Newspaper.DTO.pdb
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\Newspaper.DTO.csproj.AssemblyReference.cache
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\Newspaper.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\Newspaper.DTO.AssemblyInfoInputs.cache
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\Newspaper.DTO.AssemblyInfo.cs
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\Newspaper.DTO.csproj.CoreCompileInputs.cache
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\Newspaper.DTO.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\Newspaper.DTO.pdb
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\ref\Newspaper.DTO.dll
+D:\_Work_Peter\Newspaper\Newspaper\Newspaper.DTO\obj\Debug\net5.0\refint\Newspaper.DTO.dll

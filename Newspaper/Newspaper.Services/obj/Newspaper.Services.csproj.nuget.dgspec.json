@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Services\\Newspaper.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Core\\Newspaper.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Core\\Newspaper.Core.csproj",
+        "projectName": "Newspaper.Core",
+        "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Core\\Newspaper.Core.csproj",
+        "packagesPath": "C:\\Users\\BahyTalaat\\.nuget\\packages\\",
+        "outputPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BahyTalaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Data\\Newspaper.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Data\\Newspaper.Data.csproj",
+        "projectName": "Newspaper.Data",
+        "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Data\\Newspaper.Data.csproj",
+        "packagesPath": "C:\\Users\\BahyTalaat\\.nuget\\packages\\",
+        "outputPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BahyTalaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Core\\Newspaper.Core.csproj": {
+                "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Core\\Newspaper.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.DTO\\Newspaper.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.DTO\\Newspaper.DTO.csproj",
+        "projectName": "Newspaper.DTO",
+        "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.DTO\\Newspaper.DTO.csproj",
+        "packagesPath": "C:\\Users\\BahyTalaat\\.nuget\\packages\\",
+        "outputPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BahyTalaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Repositories\\Newspaper.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Repositories\\Newspaper.Repositories.csproj",
+        "projectName": "Newspaper.Repositories",
+        "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Repositories\\Newspaper.Repositories.csproj",
+        "packagesPath": "C:\\Users\\BahyTalaat\\.nuget\\packages\\",
+        "outputPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BahyTalaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Data\\Newspaper.Data.csproj": {
+                "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Data\\Newspaper.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Services\\Newspaper.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Services\\Newspaper.Services.csproj",
+        "projectName": "Newspaper.Services",
+        "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Services\\Newspaper.Services.csproj",
+        "packagesPath": "C:\\Users\\BahyTalaat\\.nuget\\packages\\",
+        "outputPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BahyTalaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.DTO\\Newspaper.DTO.csproj": {
+                "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.DTO\\Newspaper.DTO.csproj"
+              },
+              "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Repositories\\Newspaper.Repositories.csproj": {
+                "projectPath": "D:\\_Work_Peter\\Newspaper\\Newspaper\\Newspaper.Repositories\\Newspaper.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
